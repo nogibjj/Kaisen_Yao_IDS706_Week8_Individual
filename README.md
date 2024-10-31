@@ -6,7 +6,7 @@
 This project presents a streamlined tool in Rust for data Extraction, Transformation, Loading (ETL), and querying using a SQLite database. The project originates from earlier Python implementations, now enhanced in Rust with error handling and improved reliability.
 
 ## Project Walkthrough Video 
-[Watch the Project on YouTube](https://youtu.be/)
+[Watch the Project on YouTube](https://youtu.be/YmccvoiMTLw)
 
 ## Process Overview
 ![ETL Process Flow](etl_flow.svg)
